@@ -1,4 +1,4 @@
-Python-based Raspberry Pi AUtomated Status Reporter
+Python-based Raspberry Pi Automated Status Reporter
 
 Author(s): Mike Truong, Miles Hernandez
 
